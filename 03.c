@@ -1,5 +1,13 @@
 // final working code rev a | gave full path | removed endless while loop
 
+/*
+got out put like this :
+Processing complete.
+Heart Rate: 73.79 BPM
+R peaks detected at following indices:
+108 392 694 
+*/
+    
 #include <math.h>
 #include <string.h>
 #include <stdio.h>
